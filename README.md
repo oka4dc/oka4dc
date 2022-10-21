@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dennis Okafor
-- 👀 I’m interested in python programming with interest in django, Flask and FAST API
+- 👀 I’m a python developer with interest in django, Flask and FAST API
 - 🌱 I’m currently learning different CI/CD pipeline tools like jenkins, github action and final hosting on AWS
 - 💞️ I’m looking to collaborate on python related projects on the backend 
 - 📫 How to reach me okaforchikelue93@gmail.com [+2348108663073
